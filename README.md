@@ -7,8 +7,8 @@ Simple web server in flat assembler
 Install [flat assembler](https://flatassembler.net/)
 
 ```console
-$ fasm todo.asm
-$ chmod +x ./todo
-$ ./todo
+$ fasm server.asm
+$ chmod +x ./server
+$ ./server
 open browser at http://localhost:6969/
 ```
