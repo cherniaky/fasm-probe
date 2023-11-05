@@ -1,1 +1,1 @@
-hello
+server
